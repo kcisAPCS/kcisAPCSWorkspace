@@ -38,13 +38,13 @@
 
 | 題目 | 難度 | 練習重點 |
 | --- | --- | --- |
-| [01 修正字串輸出](problems/basic/01-修正字串輸出/README.md) | 基礎 | 編譯錯誤與字串 |
-| [02 輸出課程資訊](problems/basic/02-輸出課程資訊/README.md) | 基礎 | 文字與換行 |
-| [03 輸出星號三角形](problems/basic/03-輸出星號三角形/README.md) | 基礎 | 星號圖案 |
-| [04 讀取並輸出整數](problems/basic/04-讀取並輸出整數/README.md) | 基礎 | 讀取整數與格式化輸出 |
-| [05 靠右對齊三角形](problems/advanced/05-靠右對齊三角形/README.md) | 進階 | 行首空格與對齊 |
-| [06 製作文字選單](problems/advanced/06-製作文字選單/README.md) | 進階 | 自訂文字排版 |
-| [07 空心矩形](problems/advanced/07-空心矩形/README.md) | 進階 | 行內空格 |
+| [01 修正字串輸出](problems/basic/01-fixStringOutput/README.md) | 基礎 | 編譯錯誤與字串 |
+| [02 輸出課程資訊](problems/basic/02-printCourseInfo/README.md) | 基礎 | 文字與換行 |
+| [03 輸出星號三角形](problems/basic/03-printStarTriangle/README.md) | 基礎 | 星號圖案 |
+| [04 讀取並輸出整數](problems/basic/04-readAndPrintInteger/README.md) | 基礎 | 讀取整數與格式化輸出 |
+| [05 靠右對齊三角形](problems/advanced/05-rightAlignedTriangle/README.md) | 進階 | 行首空格與對齊 |
+| [06 製作文字選單](problems/advanced/06-createTextMenu/README.md) | 進階 | 自訂文字排版 |
+| [07 空心矩形](problems/advanced/07-hollowRectangle/README.md) | 進階 | 行內空格 |
 
 依進度選題，不要求全部完成。每題先讀 README.md，再修改 main.cpp。自由練習沒有標準輸出，不使用 Judge；其他題目可在網站依週次與題名選取。
 
